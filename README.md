@@ -1,6 +1,6 @@
 # C-PROGRAMMING-MINI-PROJECT
-WE HAVE CREATED CERTAIN MINI PROJECTS ON THE FOLLOWING TOPICS
-1. c compiler in c identifying 15 syntax errors
+c compiler in c identifying 15 syntax errors
+   
 I have created a basic c compiler that identify syntax errors given by the user 
 I have used the following logic and steps
 1. making a 2D array and storing the values given by the user in it

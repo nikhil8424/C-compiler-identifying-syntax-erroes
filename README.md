@@ -1,4 +1,5 @@
 # C-PROGRAMMING-MINI-PROJECT
+
 c compiler in c identifying 15 syntax errors
    
 I have created a basic c compiler that identify syntax errors given by the user 
@@ -20,4 +21,4 @@ I have included the following functions for identification of errors
 8. 1D array
 9.and many more 
 
- 2. graphics in c
+
